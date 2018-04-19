@@ -1,0 +1,40 @@
+/*      File : algorithms       *
+ *      By   :  Kylie Lin                *
+ *      login:  link6                *
+ *      team :  2 teams                *
+ *      Date :  9/25/17                */
+
+/* algorithms for temptbl.c:
+//declare functions 
+	//convert Fahrenheit to celsius
+	//starting temperature to stop
+
+//main will prompt user for a Fahrenheit
+	// while loop to prompt user for start and stop temperatures
+	//run through using temptable function
+
+//temptable function
+	// The function prints a table of conversions from degrees
+             Fahrenheit to degrees Celsius from start to stop
+             in five degree F increments, one conversion per line.
+	//Returns: the number of table lines printed.
+
+//tocelsius function
+	//converts Fahrenheit to celsius
+*/
+
+/*algorithms for account.c:
+//declare functions
+	//returns the accumulated value given the amount interest and years
+
+//main
+	//declare variables for initial and final amount, interest, and years
+	//prompts user for initial amount, interest and years
+	//calculates and prints accumulated value with function calc_acc_amt
+	//printf enter 0 to quit 
+
+//accumulated value function
+	//defines calculation for accumulated amount at start of year
+	//continues calculating from beginning year to current year
+	//returns  accumulated amount at start of year
+*/

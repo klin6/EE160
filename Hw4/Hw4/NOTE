@@ -1,0 +1,27 @@
+run the inside directory, weird bug on first directory
+
+tep:
+makefile
+compute.h
+presults.c		[comment define DISPLAY]
+presults.h
+//display.o
+display.h
+exponent.h
+opnd.h
+chrutil.c
+chrutil.h
+tfdef.h
+ops.h
+driver1.c
+
+me:
+exponent.c!
+ops.c!
+driver2.c
+driver3.c
+driver4.c
+compute.c!
+opnd.c	[comment oudisplay ?]
+opnd2.c
+calc.c

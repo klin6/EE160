@@ -1,0 +1,18 @@
+tep:
+display.h
+display.o
+move
+flags
+points
+title1
+
+me:
+around.c  //This function counts and returns the number of mines around a given cell
+flags.c  	///     This file contains the function for placing flags in the Mienfeld game.
+miensfeld.h 	// This file contains functions and macros for the  Miensfeld program
+miensfeld.c	//main driver
+movement.c		//moves timmy
+placement.c	/// Given the player's choice of difficulty from the startscreen*Sets the board, mines, and flags based on chosen difficulty *
+menu.c	//start for player to choose level and description
+replay.c	//y or n to play again
+makefile

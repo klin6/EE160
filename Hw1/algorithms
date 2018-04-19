@@ -1,0 +1,53 @@
+/*     file:    algorithms
+       by:      Kylie Lin
+       login:   link6
+       date:    September 25, 2017
+       team:    2 teams
+       members: Min Young Kim, Michael Lieu
+*/
+
+/*algorithm for round.c: 
+//declare variable
+	1)float input as prompted input
+	2)int integer as new integer value
+//printf & scanf as prompting user for a float value
+//while loop to loop the inputed float into rounding into a integer 
+	1)if loop when input is less than and equal to 0 then the float will round down
+		//else the input will round down
+	2)print out rounded float
+	3)when user enter 0 then system will quit
+//return 0
+*/
+
+/*algorithm for cell.c:
+initialize the minutes and seconds
+while there are more minutes and seconds to proccess
+get the minutes and seconds
+calculate the minutes and seconds into just minutes
+print minutes seconds
+accumulate the Jog price
+accumulate the Jog minutes
+accumulate the Holo-T's minutes
+get the minutes and seconds for the next call
+compute the Holo-T price
+print the results
+*/
+
+/*algorithm for regress.c:
+initialize the sigma computations and n
+print " P=[yfirst," "
+get the value for the first x and y
+update the sigma computation
+while there are more x and y to process
+update the sigma computation
+update n
+print ",y value"
+get the number of next x and y value
+print " ]"
+print the results
+*/
+
+/*Bonus:
+After going into ~ee160 directory the file that can be edited is titled
+"dummy." Everything else is readonly files or directory's.
+*/

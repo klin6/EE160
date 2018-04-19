@@ -1,0 +1,57 @@
+
+
+                  Questions To Be Answered
+NOTE: the following questions will be read by a program.  Please enter
+the information on the empty line FOLLOWING each question.  These
+questions will give me some information about you to set up the
+grading data base and also to help me assign you to your team.
+
+
+On the following blank line, enter your name (Last, First):Lin, Kylie
+
+On the following blank line, enter the lab section you are in (001,002,003,004):
+004 
+ 
+On the following blank line, enter your wiliki login id:
+ssh link6@wiliki.eng.hawaii.edu
+
+On the following blank line, enter the last 4 digits of your UH ID:
+0885
+
+On the following blank line, tell me what name you prefer going by:
+Kylie
+On the following blank line, enter your major (EE,CENG,ME,CE, etc.):
+CENG
+
+On the following blank line, enter your class standing (Fr,So,Jr,Sr,Grad):
+Jr
+
+On the following line, enter a comma separated list of other classes you are taking:
+EE296,EE361,EE261L,EE362,EE213
+ 
+On the following line, enter your overall GPA:
+3.01
+ 
+Enter the results of your learning style questionaire
+exactly as shown on the results page on the following line:
+Active(3)/ Sensing(5)/ Visual(5)/ Global(1)
+
+
+
+You may answer the following questions by adding as many
+lines as you need:
+
+(1)  What kinds of computers, Operating Systems, and software
+     applications have you used before?
+Windows and Apple
+(2)  Have you done any programming?  If so, what languages?
+Java
+(3)  Do you have a laptop?  If so, what kind?
+Yes, Macbook Air
+(4)  Do you dorm?  commute from nearby?  or commute from far away?
+I live at home.
+(5)  Why are you taking this course? (just briefly).
+For my major
+(6)  What do you expect to get from this course?
+learn c language for future courses
+
